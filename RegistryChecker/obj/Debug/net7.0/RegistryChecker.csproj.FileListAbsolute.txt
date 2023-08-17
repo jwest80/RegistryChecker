@@ -1,0 +1,15 @@
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Debug\net7.0\RegistryChecker.exe
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Debug\net7.0\RegistryChecker.deps.json
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Debug\net7.0\RegistryChecker.runtimeconfig.json
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Debug\net7.0\RegistryChecker.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Debug\net7.0\RegistryChecker.pdb
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.csproj.AssemblyReference.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.AssemblyInfoInputs.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.AssemblyInfo.cs
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.csproj.CoreCompileInputs.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\refint\RegistryChecker.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.pdb
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\RegistryChecker.genruntimeconfig.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Debug\net7.0\ref\RegistryChecker.dll

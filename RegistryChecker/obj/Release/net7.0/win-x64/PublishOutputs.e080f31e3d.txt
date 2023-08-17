@@ -1,0 +1,2 @@
+C:\Publish\RegistryChecker\rc.pdb
+C:\Publish\RegistryChecker\rc.exe

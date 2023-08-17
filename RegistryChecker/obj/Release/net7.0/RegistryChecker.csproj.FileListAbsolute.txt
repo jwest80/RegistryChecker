@@ -1,0 +1,15 @@
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Release\net7.0\rc.exe
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Release\net7.0\rc.deps.json
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Release\net7.0\rc.runtimeconfig.json
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Release\net7.0\rc.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\bin\Release\net7.0\rc.pdb
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.csproj.AssemblyReference.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.AssemblyInfoInputs.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.AssemblyInfo.cs
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.csproj.CoreCompileInputs.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\rc.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\refint\rc.dll
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\rc.pdb
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\RegistryChecker.genruntimeconfig.cache
+C:\Users\is71001\Code\RegistryChecker\RegistryChecker\obj\Release\net7.0\ref\rc.dll
